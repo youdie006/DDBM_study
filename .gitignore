@@ -38,3 +38,9 @@ autoencoder/models*
 
 *.tar
 demo*/
+
+# Contributor docs (ignore in VCS)
+AGENTS.md
+
+# Local AI agent/tooling artifacts
+.kombai/
